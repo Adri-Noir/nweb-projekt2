@@ -1,0 +1,43 @@
+
+
+.ssdContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    gap: 2rem
+}
+
+.ssdFormContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 600px;
+}
+
+.ssdFormInput {
+    width: 360px;
+    height: 40px;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+.ssdFormButton {
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color: #673ab7;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+}

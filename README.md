@@ -2,6 +2,8 @@
 
 ## Upute za pokretanje
 
+Instalirati npm pakete (yarn install)
+
 Dovoljno je samo:
 - za dev: yarn dev
 - za production: yarn build && yarn start
